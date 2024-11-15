@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Patrick Okafor 👾
 
-***Backend Web Developer passionate about building scalable web services and RESTful APIs. With over two years of experience delivering high-performance applications using Node.js, Python, and a variety of backend technologies, I focus on writing clean, maintainable code and implementing robust security measures.***
+**Backend Web Developer passionate about building scalable web services and RESTful APIs. With over two years of experience delivering high-performance applications using Node.js, Python, and a variety of backend technologies, I focus on writing clean, maintainable code and implementing robust security measures.**
 
 ## 🛠️ Technical Skills
 
