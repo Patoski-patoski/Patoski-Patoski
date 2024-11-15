@@ -2,15 +2,6 @@
 
 ***Backend Web Developer passionate about building scalable web services and RESTful APIs. With over two years of experience delivering high-performance applications using Node.js, Python, and a variety of backend technologies, I focus on writing clean, maintainable code and implementing robust security measures.***
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-codesbypatrick%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:codesbypatrick@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B234%20815%20355%201975-green?style=flat-square&logo=whatsapp)](tel:+2348153551975)
-
-</div>
-
 ### 🛠️ Technical Skills
 
 #### Languages
@@ -56,6 +47,15 @@
 
 </div>
 
+**Reach out to me**:
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-codesbypatrick%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:codesbypatrick@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B234%20815%20355%201975-green?style=flat-square&logo=whatsapp)](tel:+2348153551975)
+
+</div>
 ---
 
 <div align="center">
