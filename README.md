@@ -56,8 +56,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-codesbypatrick%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:codesbypatrick@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/codesbypatrick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-okafor-c/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B234%20815%20355%201975-green?style=flat-square&logo=whatsapp)](tel:+2348153551975)
 
 </div>
