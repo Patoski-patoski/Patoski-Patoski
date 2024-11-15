@@ -2,30 +2,35 @@
 
 ***Backend Web Developer passionate about building scalable web services and RESTful APIs. With over two years of experience delivering high-performance applications using Node.js, Python, and a variety of backend technologies, I focus on writing clean, maintainable code and implementing robust security measures.***
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 #### Languages
+
 ![Node.js](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### Frameworks & Libraries
+
 ![Express.js](https://img.shields.io/badge/Expressjs-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 #### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🚀 Featured Projects
 
 #### Advanced Real-Time Messaging Backend System
+
 - 🔧 Built a scalable messaging system using Node.js, Express.js, and Socket.IO
 - 🛡️ Integrated robust security features, including rate limiting and CORS protection
 - 📊 Optimized performance with MongoDB indexing and Redis caching
 - 📈 Implemented comprehensive logging and monitoring for a production environment
 
-
 #### UNIX Shell Implementation
+
 - 🖥️ Created a feature-rich command-line shell in C with process management
 - 🔄 Enabled I/O redirection and background process handling
 - 🛠️ Implemented robust error handling and process control mechanisms
@@ -47,7 +52,7 @@
 
 </div>
 
-**Reach out to me**:
+**Reach out on 🤙🏾**:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-codesbypatrick%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:codesbypatrick@gmail.com)
