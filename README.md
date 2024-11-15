@@ -46,9 +46,9 @@
 
 <div align="center">
   
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patoski-patoski&show_icons=true&theme=radical)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patoski-patoski&layout=compact&theme=radical)
 
 </div>
 
@@ -61,10 +61,10 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B234%20815%20355%201975-green?style=flat-square&logo=whatsapp)](tel:+2348153551975)
 
 </div>
+
 ---
 
 <div align="center">
 
   **🌟 Let's connect and build something amazing together! 🌟**
-
 </div>
