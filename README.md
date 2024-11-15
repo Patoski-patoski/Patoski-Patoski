@@ -3,7 +3,7 @@
 
 ## 💫 About Me
 
-I am Backend Web Developer passionate about building scalable web services and RESTful APIs. I have 2 years of experience delivering high-performance applications using Node.js, Python, and modern backend technologies. I love writing clean, maintainable code and implementing robust security measures.
+***I am Backend Web Developer passionate about building scalable web services and RESTful APIs. I have 2 years of experience delivering high-performance applications using Node.js, Python, and modern backend technologies. I love writing clean, maintainable code and implementing robust security measures.***
 
 <div align="center">
 
