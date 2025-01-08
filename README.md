@@ -1,6 +1,6 @@
-# 👋 Hello World, I'm Patrick Okafor 👾
+# Hey👋 , I'm ***`Patrick Okafor`*** 👾
 
-**Backend Web Developer passionate about building scalable web services and RESTful APIs. With over two years of experience delivering high-performance applications using Node.js, Python, and a variety of backend technologies, I focus on writing clean, maintainable code and implementing robust security measures.**
+**A Backend Web Developer passionate about building scalable web services and RESTful APIs. With over two years of experience delivering high-performance applications using Node.js, Python, and a variety of backend technologies, I focus on writing clean, maintainable code and implementing robust security measures.**
 
 ## 🛠️ Technical Skills
 
@@ -18,7 +18,7 @@
 
 #### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Github Action](https://img.shields.io/badge/GitHub-Action-FCC624?style=for-the-badge&logo=GitHub_Action&logoColor=black)
 
 ### 🚀 Featured Projects
 
