@@ -23,17 +23,7 @@
 ### 🚀 Featured Projects
 
 #### Advanced Real-Time Messaging Backend System
-
-- 🔧 Built a scalable messaging system using Node.js, Express.js, and Socket.IO
-- 🛡️ Integrated robust security features, including rate limiting and CORS protection
-- 📊 Optimized performance with MongoDB indexing and Redis caching
-- 📈 Implemented comprehensive logging and monitoring for a production environment
-
 #### UNIX Shell Implementation
-
-- 🖥️ Created a feature-rich command-line shell in C with process management
-- 🔄 Enabled I/O redirection and background process handling
-- 🛠️ Implemented robust error handling and process control mechanisms
 
 ### 🏆 Certifications & Professional Development
 
