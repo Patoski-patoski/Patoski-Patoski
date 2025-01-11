@@ -20,11 +20,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Github Action](https://img.shields.io/badge/GitHub-Action-FCC624?style=for-the-badge&logo=GitHub_Action&logoColor=black)
 
-### 🚀 Featured Projects
-
-#### Advanced Real-Time Messaging Backend System
-#### UNIX Shell Implementation
-
 ### 🏆 Certifications & Professional Development
 
 - **FullStack Certified Professional** (2022) - Zuri X I4G
@@ -34,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patoski-patoski&show_icons=true&theme=radical)
   
@@ -43,12 +38,11 @@
 </div>
 
 **Reach out on 🤙🏾**:
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/Email-codesbypatrick%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:codesbypatrick@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/codesbypatrick)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-okafor-c/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B234%20815%20355%201975-green?style=flat-square&logo=whatsapp)](tel:+2348153551975)
 
 </div>
 
