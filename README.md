@@ -6,7 +6,7 @@
 
 #### Languages
 
-![Node.js](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Node.js](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-F7DF1E?style=for-the-badge&logo=rust&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=black)
 
 #### Frameworks & Libraries
 
@@ -33,7 +33,7 @@
   
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patoski-patoski&show_icons=true&theme=radical)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patoski-patoski&layout=compact&theme=radical)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patoski-patoski&layout=compact&theme=radical) -->
 
 </div>
 
