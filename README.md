@@ -1,6 +1,6 @@
 # Hey👋 , I'm ***`Patrick Okafor`*** 👾
 
-**A Backend Web Developer passionate about building scalable web services and RESTful APIs. With over three years of experience delivering high-performance applications using Node.js, Python, and various backend technologies, I focus on writing clean, maintainable code and implementing robust security measures.**
+**A Software Developer passionate about building scalable web services, RESTful APIs, blockchain integration, and AI integration services. With three years of experience delivering high-performance applications using TypeScript, Python, and various system programming technologies, I focus on writing clean, working, maintainable code and implementing robust security measures.
 
 ## 🛠️ Technical Skills
 
@@ -10,7 +10,7 @@
 
 #### Frameworks & Libraries
 
-![Express.js](https://img.shields.io/badge/Expressjs-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-007ACC?style=for-the-badge&logo=flask&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![Anchor](https://img.shields.io/badge/Anchor-0769AD?style=for-the-badge&logo=anchor&logoColor=white)  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  ![React](https://img.shields.io/badge/react-F7DF1E?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Expressjs-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-007ACC?style=for-the-badge&logo=flask&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  ![React](https://img.shields.io/badge/react-F7DF1E?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 #### Databases
