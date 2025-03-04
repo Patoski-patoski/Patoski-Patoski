@@ -1,6 +1,6 @@
 # Hey👋 , I'm ***`Patrick Okafor`*** 👾
 
-**A Software Developer passionate about building scalable web services, RESTful APIs, blockchain integration, and AI integration services. With three years of experience delivering high-performance applications using TypeScript, Python, and various system programming technologies, I focus on writing clean, working, maintainable code and implementing robust security measures.
+**A Software Developer passionate about building scalable web services, RESTful APIs, blockchain integration, and AI integration services. With three years of experience delivering high-performance applications using TypeScript, Python, and various system programming technologies, I focus on writing clean, working, maintainable code and implementing robust security measures**.
 
 ## 🛠️ Technical Skills
 
