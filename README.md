@@ -1,6 +1,6 @@
 # Hey 👋, I'm **`Patrick Okafor`** 👾
 
-I'm a Software Developer passionate about building **scalable web services**, **RESTful APIs**, and integrating cutting-edge **blockchain** and **AI technologies**. With + years of experience delivering high-performance applications using **TypeScript**, **Python**, and **systems programming**, I specialize in writing **clean**, **maintainable**, and **secure code**.
+I'm a Software Developer passionate about building **scalable web services**, **RESTful APIs**, and integrating cutting-edge **blockchain** and **AI technologies**. With 4+ years of experience delivering high-performance applications using **TypeScript**, **Python**, and **systems programming**, I specialize in writing **clean**, **maintainable**, and **secure code**.
 
 ---
 
