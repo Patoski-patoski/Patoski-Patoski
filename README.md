@@ -7,16 +7,16 @@ I'm a Software Developer passionate about building **scalable web services**, **
 ## 🛠️ Technical Skills
 
 ### 💬 Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,rust,ts,python,c,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,rust,python,c,bash)](https://skillicons.dev)
 
 ### 🧰 Frameworks & Libraries  
 [![Frameworks & Libraries](https://skillicons.dev/icons?i=express,flask,django,react,jquery,react,next)](https://skillicons.dev)
 
 ### 🗃️ Databases  
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=express,mongodb,mysql,postgres,redis)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=express,mongodb,mysql,postgres,redis)](https://skillicons.dev)
 
 ### ⚙️ DevOps & Tools  
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=docker,nginx,vscode,linux,windows,git)](https://skillicons.dev)
+[![Deveops & Tools](https://skillicons.dev/icons?i=docker,nginx,vscode,linux,windows,git)](https://skillicons.dev)
 
 ---
 
