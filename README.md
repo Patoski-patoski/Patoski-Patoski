@@ -10,10 +10,10 @@ I'm a Software Developer passionate about building **scalable web services**, **
 [![Languages](https://skillicons.dev/icons?i=nodejs,js,ts,rust,python,c,bash)](https://skillicons.dev)
 
 ### 🧰 Frameworks & Libraries  
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=express,flask,django,jquery,react,next)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=express,flask,django,nest,jquery,react,next)](https://skillicons.dev)
 
 ### 🗃️ Databases  
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres,redis)](https://skillicons.dev)
 
 ### ⚙️ DevOps & Tools  
 [![Deveops & Tools](https://skillicons.dev/icons?i=cloudflare,docker,nginx,vscode,linux,windows,git,githubactions,rabbitmq)](https://skillicons.dev)
