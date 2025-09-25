@@ -1,19 +1,19 @@
 # Hey 👋, I'm **`Patrick Okafor`** 👾
 
-I'm a Software Developer passionate about building **scalable web services**, **RESTful APIs**, and integrating cutting-edge **blockchain** and **AI technologies**. With 4+ years of experience delivering high-performance applications using **TypeScript**, **Python**, and **systems programming**, I specialize in writing **clean**, **maintainable**, and **secure code**.
+I'm a Software Developer passionate about building **scalable web services**, **RESTful APIs**, and integrating cutting-edge **blockchain** and **AI technologies**. With 4+ years of experience delivering high-performance applications using **TypeScript**, **Python**, and **systems programming**, I specialise in writing **clean**, **maintainable**, and **secure code**.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💬 Languages
-[![Languages](https://skillicons.dev/icons?i=nodejs,js,ts,rust,python,c,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=nodejs,js,ts,python,rust,c,bash)](https://skillicons.dev)
 
 ### 🧰 Frameworks & Libraries  
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=express,flask,django,nest,jquery,react,next)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=express,nest,flask,django,jquery,react,next)](https://skillicons.dev)
 
 ### 🗃️ Databases  
-[![Databases](https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres,redis)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ### ⚙️ DevOps & Tools  
 [![Deveops & Tools](https://skillicons.dev/icons?i=cloudflare,docker,nginx,vscode,linux,windows,git,githubactions,rabbitmq)](https://skillicons.dev)
