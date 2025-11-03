@@ -1,6 +1,6 @@
 # Hey 👋, I'm [**`Patrick Okafor`**](https://patrick-patoski.vercel.app/) 👾
 
-I'm a Software Developer passionate about building **scalable web services**, **RESTful APIs**, and integrating cutting-edge **blockchain** and **AI technologies**. With 3+ years of experience delivering high-performance applications using **TypeScript**, **Python**, and **systems programming**, I specialise in writing **clean**, **maintainable**, and **secure code**.
+I'm a Software Developer excited about building **scalable web services**, **RESTful APIs**, and integrating cutting-edge **blockchain** and **AI technologies**. With 3+ years of experience delivering high-performance applications using **TypeScript**, **Python**, and **systems programming**, I specialise in writing **clean**, **maintainable**, and **secure code**.
 
 ---
 
@@ -16,7 +16,7 @@ I'm a Software Developer passionate about building **scalable web services**, **
 [![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ### ⚙️ DevOps & Tools  
-[![Deveops & Tools](https://skillicons.dev/icons?i=cloudflare,docker,nginx,aws,gcp,vscode,linux,windows,git,githubactions,rabbitmq)](https://skillicons.dev)
+[![Deveops & Tools](https://skillicons.dev/icons?i=cloudflare,docker,nginx,aws,vscode,linux,windows,git,githubactions,rabbitmq)](https://skillicons.dev)
 
 ---
 
