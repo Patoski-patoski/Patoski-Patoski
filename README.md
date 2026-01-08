@@ -16,7 +16,7 @@ I'm a Software Developer excited about building **scalable web services**, **RES
 [![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ### ⚙️ DevOps & Tools  
-[![Deveops & Tools](https://skillicons.dev/icons?i=cloudflare,docker,nginx,aws,vscode,linux,windows,git,githubactions,rabbitmq)](https://skillicons.dev)
+[![Deveops & Tools](https://skillicons.dev/icons?i=cloudflare,docker,nginx,aws,vscode,linux,windows,git,githubactions,kafka,rabbitmq)](https://skillicons.dev)
 
 ---
 
