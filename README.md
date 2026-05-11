@@ -6,21 +6,21 @@ I'm a Software Developer. I build **scalable web services**, **RESTful APIs**, a
 
 ## 🛠️ Technical Skills
 
-### 💬 Languages
+### Languages
 [![Languages](https://skillicons.dev/icons?i=nodejs,js,ts,python,rust,c,bash)](https://skillicons.dev)
 
-### 🧰 Frameworks & Libraries  
+### Frameworks & Libraries  
 [![Frameworks & Libraries](https://skillicons.dev/icons?i=express,nest,flask,django,jquery,react,next)](https://skillicons.dev)
 
-### 🗃️ Databases  
+### Databases  
 [![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
-### ⚙️ DevOps & Tools  
+### DevOps & Tools  
 [![Deveops & Tools](https://skillicons.dev/icons?i=cloudflare,docker,nginx,aws,vscode,linux,windows,git,githubactions,rabbitmq)](https://skillicons.dev)
 
 ---
 
-## 🏆 Certifications & Development
+## Certifications & Development
 
 - ✅ **Full-Stack Certified Professional** — *Zuri x I4G* (2022)  
 - ✅ **Certified Software Engineer** — *ALX SE Program* (2024)  
@@ -36,13 +36,13 @@ I'm a Software Developer. I build **scalable web services**, **RESTful APIs**, a
 ![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patoski-patoski&show_icons=true&theme=radical)
 
 <!-- Optional: Uncomment to show top languages -->
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patoski-patoski&layout=compact&theme=radical) -->
+<!-- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patoski-patoski&layout=compact&theme=radical) -->
 
 </div>
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:codesbypatrick@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/patrick-okafor-c)
