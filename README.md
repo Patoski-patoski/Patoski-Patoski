@@ -16,7 +16,7 @@ I'm a Software Developer. I build **scalable web services**, **RESTful APIs**, a
 [![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ### DevOps & Tools  
-[![Deveops & Tools](https://skillicons.dev/icons?i=cloudflare,docker,nginx,aws,vscode,linux,windows,git,githubactions,rabbitmq)](https://skillicons.dev)
+[![Deveops & Tools](https://skillicons.dev/icons?i=cloudflare,docker,nginx,aws,vscode,linux,windows,git,githubactions,rabbitmq,grafana)](https://skillicons.dev)
 
 ---
 
