@@ -1,13 +1,13 @@
 # Hey 👋, I'm [**`Patrick Okafor`**](https://patrick-patoski.vercel.app/) 👾
 
-I'm a Software Developer. I build **scalable web services**, **RESTful APIs**, and integrating cutting-edge **blockchain** and **AI technologies**. With 5 years of experience delivering high-performance applications using **TypeScript**, **Python**, and **Rust**, I specialise in writing **clean**, **maintainable**, and **secure code**.
+I'm a Software Developer. I build **scalable web services**, **RESTful APIs**, and integrate cutting-edge **blockchain** and **AI technologies**. With 5 years of experience delivering high-performance applications using **TypeScript**, **Python**, and **Rust**, I specialise in writing **clean**, **maintainable**, and **secure code**.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=nodejs,js,ts,python,rust,c,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=nodejs,ts,python,rust,c,bash)](https://skillicons.dev)
 
 ### Frameworks & Libraries  
 [![Frameworks & Libraries](https://skillicons.dev/icons?i=express,nest,flask,actix,django,jquery,react,next)](https://skillicons.dev)
