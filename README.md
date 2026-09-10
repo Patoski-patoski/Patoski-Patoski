@@ -10,13 +10,13 @@ I'm a Software Developer. I build **scalable web services**, **RESTful APIs**, a
 [![Languages](https://skillicons.dev/icons?i=nodejs,ts,python,rust,c,bash)](https://skillicons.dev)
 
 ### Frameworks & Libraries  
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=express,nest,flask,actix,django,jquery,react,next)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=express,nest,bun,flask,actix,django,jquery,react,next)](https://skillicons.dev)
 
 ### Databases  
 [![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 ### DevOps & Tools  
-[![Deveops & Tools](https://skillicons.dev/icons?i=cloudflare,docker,nginx,aws,vscode,linux,windows,git,githubactions,rabbitmq,grafana)](https://skillicons.dev)
+[![Deveops & Tools](https://skillicons.dev/icons?i=cloudflare,docker,nginx,aws,vscode,linux,ubuntu,windows,git,githubactions,rabbitmq,grafana)](https://skillicons.dev)
 
 ---
 
