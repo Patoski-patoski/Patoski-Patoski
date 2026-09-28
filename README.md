@@ -7,10 +7,10 @@ I'm a Software Developer. I build **scalable web services**, **RESTful APIs**, a
 ## 🛠️ Technical Skills
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=nodejs,ts,python,rust,c,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=nodejs,js,ts,python,rust,c,bash)](https://skillicons.dev)
 
 ### Frameworks & Libraries  
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=express,nest,bun,flask,actix,django,jquery,react,next)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=express,nest,bun,fastapi,flask,django,actix,jquery,react,next)](https://skillicons.dev)
 
 ### Databases  
 [![Databases](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb,redis)](https://skillicons.dev)
